@@ -1,2 +1,2 @@
 # Bash_scripts
-Repository that contains all written by me bash scripts
+Repository that contains all bash scripts written by me
